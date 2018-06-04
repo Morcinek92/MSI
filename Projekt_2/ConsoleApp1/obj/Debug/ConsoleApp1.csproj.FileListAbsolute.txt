@@ -1,0 +1,50 @@
+C:\Users\arutkowski\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+C:\Users\arutkowski\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\arutkowski\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\arutkowski\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\arutkowski\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\arutkowski\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\FANNCSharp.dll
+C:\Users\arutkowski\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+C:\Users\arutkowski\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\arutkowski\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\arutkowski\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\xor.data
+C:\Users\Marci\Downloads\MSI-master\MSI-master\Fann\ConsoleApp1\bin\Debug\xor1.data
+C:\Users\Marci\Downloads\MSI-master\MSI-master\Fann\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Marci\Downloads\MSI-master\MSI-master\Fann\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Marci\Downloads\MSI-master\MSI-master\Fann\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Marci\Downloads\MSI-master\MSI-master\Fann\ConsoleApp1\bin\Debug\FANNCSharp.dll
+C:\Users\Marci\Downloads\MSI-master\MSI-master\Fann\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Marci\Downloads\MSI-master\MSI-master\Fann\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+C:\Users\Marci\Downloads\MSI-master\MSI-master\Fann\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Marci\Downloads\MSI-master\MSI-master\Fann\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Marci\Downloads\MSI-master\MSI-master\Fann\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Marci\Documents\Visual Studio 2017\Backup Files\MSI-master\MSI-master\Fann\ConsoleApp1\bin\Debug\xor1.data
+C:\Users\Marci\Documents\Visual Studio 2017\Backup Files\MSI-master\MSI-master\Fann\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Marci\Documents\Visual Studio 2017\Backup Files\MSI-master\MSI-master\Fann\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Marci\Documents\Visual Studio 2017\Backup Files\MSI-master\MSI-master\Fann\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Marci\Documents\Visual Studio 2017\Backup Files\MSI-master\MSI-master\Fann\ConsoleApp1\bin\Debug\FANNCSharp.dll
+C:\Users\Marci\Documents\Visual Studio 2017\Backup Files\MSI-master\MSI-master\Fann\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Marci\Documents\Visual Studio 2017\Backup Files\MSI-master\MSI-master\Fann\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Marci\Documents\Visual Studio 2017\Backup Files\MSI-master\MSI-master\Fann\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+C:\Users\Marci\Documents\Visual Studio 2017\Backup Files\MSI-master\MSI-master\Fann\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Marci\Documents\Visual Studio 2017\Backup Files\MSI-master\MSI-master\Fann\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Marci\OneDrive\Pulpit\Fann\ConsoleApp1\bin\Debug\xor.data
+C:\Users\Marci\OneDrive\Pulpit\Fann\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Marci\OneDrive\Pulpit\Fann\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Marci\OneDrive\Pulpit\Fann\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Marci\OneDrive\Pulpit\Fann\ConsoleApp1\bin\Debug\FANNCSharp.dll
+C:\Users\Marci\OneDrive\Pulpit\Fann\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Marci\OneDrive\Pulpit\Fann\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Marci\OneDrive\Pulpit\Fann\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+C:\Users\Marci\OneDrive\Pulpit\Fann\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Marci\OneDrive\Pulpit\Fann\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Marci\OneDrive\Pulpit\Projekt_2\ConsoleApp1\bin\Debug\xor.data
+C:\Users\Marci\OneDrive\Pulpit\Projekt_2\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Marci\OneDrive\Pulpit\Projekt_2\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Marci\OneDrive\Pulpit\Projekt_2\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Marci\OneDrive\Pulpit\Projekt_2\ConsoleApp1\bin\Debug\FANNCSharp.dll
+C:\Users\Marci\OneDrive\Pulpit\Projekt_2\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Marci\OneDrive\Pulpit\Projekt_2\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Marci\OneDrive\Pulpit\Projekt_2\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+C:\Users\Marci\OneDrive\Pulpit\Projekt_2\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Marci\OneDrive\Pulpit\Projekt_2\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
